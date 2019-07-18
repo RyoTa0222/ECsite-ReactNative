@@ -1,0 +1,21 @@
+[debug] [2019-07-18T05:18:15.668Z] ----------------------------------------------------------------------
+[debug] [2019-07-18T05:18:15.673Z] Command:       /Users/matsumotoryouta/.nodebrew/node/v11.10.1/bin/node /Users/matsumotoryouta/work/reactNative-ec/node_modules/.bin/firebase init
+[debug] [2019-07-18T05:18:15.673Z] CLI Version:   7.1.1
+[debug] [2019-07-18T05:18:15.673Z] Platform:      darwin
+[debug] [2019-07-18T05:18:15.673Z] Node Version:  v11.10.1
+[debug] [2019-07-18T05:18:15.677Z] Time:          Thu Jul 18 2019 14:18:15 GMT+0900 (GMT+09:00)
+[debug] [2019-07-18T05:18:15.677Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2019-07-18T05:18:15.698Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2019-07-18T05:18:15.699Z] > authorizing via signed-in user
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  /Users/matsumotoryouta/work/reactNative-ec
+
